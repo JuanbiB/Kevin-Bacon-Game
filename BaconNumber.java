@@ -5,17 +5,11 @@ import java.util.Scanner;
 
 
 /**
- * I hereby affirm that I have adhered to the Honor Code in this assignment. 
  * @author Juan Bautista Berretta
  * @author Manickam Manickam
  *
  */
 
-
-/**
- * @author manickammanickam
- * 
- */
 
 public class BaconNumber {
     

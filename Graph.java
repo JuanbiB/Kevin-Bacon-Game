@@ -12,17 +12,6 @@ import java.util.TreeMap;
  * @author Juan Bautista Berretta
  */
 
-
-/**
- * Implementation of Graph class and its Edge, Vertex, and Path subclasses were
- * taken directly from the class textbook.
- * @author manickammanickam
- * 
- * based on Graph class implementation from Weiss 4th ed., pg. 528-553
- * methods such as topcenter, table, avgdist, and recenter were written by us
- * 
- * We adhered to the Honor Code in this assignment.
- */
 public class Graph {	
     
     //class variables
